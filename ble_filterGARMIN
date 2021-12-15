@@ -1,0 +1,9 @@
+btle.initiator_address == f0:99:19:11:93:93 or 
+btle.advertising_address == f0:99:19:11:93:93 or 
+btle.target_address == f0:99:19:11:93:93 or
+btle.master_bd_addr == f0:99:19:11:93:93 or 
+btle.scanning_address == f0:99:19:11:93:93 or 
+btle.slave_bd_addr == f0:99:19:11:93:93 
+
+
+
