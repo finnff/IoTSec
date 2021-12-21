@@ -1,0 +1,30 @@
+Actions - Timestamp (minute:second)
+
+-------------------
+ SPHERO USES GATT  -> SPHERO API PACKAGES (8d*********d8)
+ SEE https://sdk.sphero.com/docs/api_spec/general_api/ FOR DETAILS
+
+connecting 17:15
+
+calibrating 17:27
+
+foward 18:03
+backwards 18:57
+left 19:10
+right 19:44
+forwardx4 20:05
+backwardsx4 20:46
+
+Lights Red 21:33
+Lights Orange 21:59
+Lights Yellow 22:13
+Lights LightGreen 22:37
+Lights DarkGreen 23:04
+Lights LightBlue 23:23
+Lights DarkBlue 23:34
+Lights DarkPurple 23:45
+Lights LightPurple 23:56
+Lights Pink 24:10
+Lights White 24:22
+Lights Black 24:38
+
